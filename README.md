@@ -1,0 +1,225 @@
+# Steele - Algorithms and Data Structures
+
+- [Steele - Algorithms and Data Structures](#steele---algorithms-and-data-structures)
+  - [Lessons](#lessons)
+
+
+## Lessons
+
+- [ ] Lesson 001 - Curriculum Walkthrough
+- [ ] Lesson 002 - What Order Should You Watch In?
+- [ ] Lesson 003 - How I'm Running My Code
+- [ ] Lesson 004 - Intro to Big O
+- [ ] Lesson 005 - Timing Our Code
+- [ ] Lesson 006 - Counting Operations
+- [ ] Lesson 007 - Visualizing Time Complexities
+- [ ] Lesson 008 - Official Intro to Big O
+- [ ] Lesson 009 - Simplifying Big O Expressions
+- [ ] Lesson 010 - Space Complexity
+- [ ] Lesson 011 - Logs and Section Recap
+- [ ] Lesson 012 - Section Introduction
+- [ ] Lesson 013 - The BIG O of Objects
+- [ ] Lesson 014 - When are Arrays Slow?
+- [ ] Lesson 015 - Big O of Array Methods
+- [ ] Lesson 016 - Introduction to Problem Solving
+- [ ] Lesson 017 - Step 1: Understand The Problem
+- [ ] Lesson 018 - Step 2: Concrete Examples
+- [ ] Lesson 019 - Step 3: Break It Down
+- [ ] Lesson 020 - Step 4: Solve Or Simplify
+- [ ] Lesson 021 - Step 5: Look Back and Refactor
+- [ ] Lesson 022 - Recap and Interview Strategies
+- [ ] Lesson 023 - Intro to Problem Solving Patterns
+- [ ] Lesson 024 - Frequency Counter Pattern
+- [ ] Lesson 025 - Frequency Counter: Anagram Challenge
+- [ ] Lesson 026 - Anagram Challenge Solution
+- [ ] Lesson 027 - Multiple Pointers Pattern
+- [ ] Lesson 028 - Multiple Pointers: Count Unique Values Challenge
+- [ ] Lesson 029 - Count Unique Values Solution
+- [ ] Lesson 030 - Sliding Window Pattern
+- [ ] Lesson 031 - Divide and Conquer Pattern
+- [ ] Lesson 032 - Story Time: Martin & The Dragon
+- [ ] Lesson 033 - Why Use Recursion?
+- [ ] Lesson 034 - The Call Stack
+- [ ] Lesson 035 - Our First Recursive Function
+- [ ] Lesson 036 - Our Second Recursive Function
+- [ ] Lesson 037 - Writing Factorial Iteratively
+- [ ] Lesson 038 - Writing Factorial Recursively
+- [ ] Lesson 039 - Common Recursion Pitfalls
+- [ ] Lesson 040 - Helper Method Recursion
+- [ ] Lesson 041 - Pure Recursion
+- [ ] Lesson 042 - Intro to Searching
+- [ ] Lesson 043 - Intro to Linear Search
+- [ ] Lesson 044 - Linear Search Solution
+- [ ] Lesson 045 - Linear Search BIG O
+- [ ] Lesson 046 - Intro to Binary Search
+- [ ] Lesson 047 - Binary Search PseudoCode
+- [ ] Lesson 048 - Binary Search Solution
+- [ ] Lesson 049 - Binary Search BIG O
+- [ ] Lesson 050 - Naive String Search
+- [ ] Lesson 051 - Naive String Search Implementation
+- [ ] Lesson 052 - Introduction to Sorting Algorithms
+- [ ] Lesson 053 - Built-in JavaScript Sorting
+- [ ] Lesson 054 - Bubble Sort: Overview
+- [ ] Lesson 055 - Bubble Sort: Implementation
+- [ ] Lesson 056 - Bubble Sort: Optimization
+- [ ] Lesson 057 - Bubble Sort: BIG O Complexity
+- [ ] Lesson 058 - Selection Sort: Introduction
+- [ ] Lesson 059 - Selection Sort: Implementation
+- [ ] Lesson 060 - Selection Sort: Big O Complexity
+- [ ] Lesson 061 - Insertion Sort: Introduction
+- [ ] Lesson 062 - Insertion Sort: Implementation
+- [ ] Lesson 063 - Insertion Sort: BIG O Complexity
+- [ ] Lesson 064 - Comparing Bubble, Selection, and Insertion Sort
+- [ ] Lesson 065 - Intro to the "Crazier" Sorts
+- [ ] Lesson 066 - Merge Sort: Introduction
+- [ ] Lesson 067 - Merging Arrays Intro
+- [ ] Lesson 068 - Merging Arrays: Implementation
+- [ ] Lesson 069 - Writing Merge Sort Part 1
+- [ ] Lesson 070 - Writing Merge Sort Part 2
+- [ ] Lesson 071 - Merge Sort BIG O Complexity
+- [ ] Lesson 072 - Introduction to Quick Sort
+- [ ] Lesson 073 - Pivot Helper Introduction
+- [ ] Lesson 074 - Pivot Helper Implementation
+- [ ] Lesson 075 - Quick Sort Implementation
+- [ ] Lesson 076 - Quick Sort Call Stack Walkthrough
+- [ ] Lesson 077 - Quick Sort Big O Complexity
+- [ ] Lesson 078 - Radix Sort: Introduction
+- [ ] Lesson 079 - Radix Sort: Helper Methods
+- [ ] Lesson 080 - Radix Sort: Pseudocode
+- [ ] Lesson 081 - Radix Sort: Implementation
+- [ ] Lesson 082 - Radix Sort: BIG O Complexity
+- [ ] Lesson 083 - Which Data Structure Is The Best
+- [ ] Lesson 084 - ES2015 Class Syntax Overview
+- [ ] Lesson 085 - Data Structures: The Class Keyword
+- [ ] Lesson 086 - Data Structures: Adding Instance Methods
+- [ ] Lesson 087 - Adding Class Methods
+- [ ] Lesson 088 - Intro to Singly Linked Lists
+- [ ] Lesson 089 - Starter Code and Push Intro
+- [ ] Lesson 090 - Singly Linked List: Push Solution
+- [ ] Lesson 091 - Singly Linked List: Pop Intro
+- [ ] Lesson 092 - Singly Linked List: Pop Solution
+- [ ] Lesson 093 - Singly Linked List: Shift Intro
+- [ ] Lesson 094 - Singly Linked List: Shift Solution
+- [ ] Lesson 095 - Singly Linked List: Unshift Intro
+- [ ] Lesson 096 - Singly Linked List: Unshift Solution
+- [ ] Lesson 097 - Singly Linked List: Get Intro
+- [ ] Lesson 098 - Singly Linked List: Get Solution
+- [ ] Lesson 099 - Singly Linked List: Set Intro
+- [ ] Lesson 100 - Singly Linked List: Set Solution
+- [ ] Lesson 101 - Singly Linked List: Insert Intro
+- [ ] Lesson 102 - Singly Linked List: Insert Solution
+- [ ] Lesson 103 - Singly Linked List: Remove Intro
+- [ ] Lesson 104 - Singly Linked List: Remove Solution
+- [ ] Lesson 105 - Singly Linked List: Reverse Intro
+- [ ] Lesson 106 - Singly Linked List: Reverse Solution
+- [ ] Lesson 107 - Singly Linked List: BIG O Complexity
+- [ ] Lesson 108 - Doubly Linked Lists Introduction
+- [ ] Lesson 109 - Setting Up Our Node Class
+- [ ] Lesson 110 - Push
+- [ ] Lesson 111 - Push Solution
+- [ ] Lesson 112 - Pop
+- [ ] Lesson 113 - Pop Solution
+- [ ] Lesson 114 - Shift
+- [ ] Lesson 115 - Shift Solution
+- [ ] Lesson 116 - Unshift
+- [ ] Lesson 117 - Unshift Solution
+- [ ] Lesson 118 - Get
+- [ ] Lesson 119 - Get Solution
+- [ ] Lesson 120 - Set
+- [ ] Lesson 121 - Set Solution
+- [ ] Lesson 122 - Insert
+- [ ] Lesson 123 - Insert Solution
+- [ ] Lesson 124 - Remove
+- [ ] Lesson 125 - Remove Solution
+- [ ] Lesson 126 - Comparing Singly and Doubly Linked Lists
+- [ ] Lesson 127 - Intro to Stacks
+- [ ] Lesson 128 - Creating a Stack with an Array
+- [ ] Lesson 129 - Writing Our Own Stack From Scratch
+- [ ] Lesson 130 - BIG O of Stacks
+- [ ] Lesson 131 - Intro to Queue
+- [ ] Lesson 132 - Creating Queues Using Arrays
+- [ ] Lesson 133 - Writing Our Own Queue From Scratch
+- [ ] Lesson 134 - BIG O of Queues
+- [ ] Lesson 135 - Introduction to Trees
+- [ ] Lesson 136 - Uses For Trees
+- [ ] Lesson 137 - Intro to Binary Trees
+- [ ] Lesson 138 - POP QUIZ!
+- [ ] Lesson 139 - Searching A Binary Search Tree
+- [ ] Lesson 140 - Our Tree Classes
+- [ ] Lesson 141 - BST: Insert
+- [ ] Lesson 142 - BST: Insert Solution
+- [ ] Lesson 143 - BST: Find
+- [ ] Lesson 144 - BST: Find Solution
+- [ ] Lesson 145 - Big O of Binary Search Trees
+- [ ] Lesson 146 - Intro To Tree Traversal
+- [ ] Lesson 147 - Breadth First Search Intro
+- [ ] Lesson 148 - Breadth First Search Solution
+- [ ] Lesson 149 - Depth First PreOrder Intro
+- [ ] Lesson 150 - Depth First PreOrder Solution
+- [ ] Lesson 151 - Depth First PostOrder Intro
+- [ ] Lesson 152 - Depth First PostOrder Solution 
+- [ ] Lesson 153 - Depth First InOrder Intro
+- [ ] Lesson 154 - Depth First InOrder Solution
+- [ ] Lesson 155 - When to Use BFS and DFS
+- [ ] Lesson 156 - Intro to Heaps
+- [ ] Lesson 157 - Storing Heaps
+- [ ] Lesson 158 - Heap: Insert Intro
+- [ ] Lesson 159 - Heap: Insert Solution
+- [ ] Lesson 160 - Heap: ExtractMax Intro
+- [ ] Lesson 161 - Heap: ExtractMax Solution
+- [ ] Lesson 162 - Priority Queue Intro
+- [ ] Lesson 163 - Priority Queue Pseudocode
+- [ ] Lesson 164 - Priority Queue Solution
+- [ ] Lesson 165 - BIG O Binary Heaps
+- [ ] Lesson 166 - Intro to Hash Tables
+- [ ] Lesson 167 - More About Hash Tables
+- [ ] Lesson 168 - Intro to Hash Functions
+- [ ] Lesson 169 - Writing Our First Hash Function
+- [ ] Lesson 170 - Improving Our Hash Function
+- [ ] Lesson 171 - Handling Collisions
+- [ ] Lesson 172 - Hash Table Set and Get
+- [ ] Lesson 173 - Hash Table Set Solution
+- [ ] Lesson 174 - Hash Table Get Solution
+- [ ] Lesson 175 - Hash Table Keys and Values
+- [ ] Lesson 176 - Hash Table Keys and Values Solution
+- [ ] Lesson 177 - Hash Table Big O Complexity
+- [ ] Lesson 178 - Intro to Graphs
+- [ ] Lesson 179 - Uses for Graphs
+- [ ] Lesson 180 - Types of Graphs
+- [ ] Lesson 181 - Storing Graphs: Adjacency Matrix
+- [ ] Lesson 182 - Storing Graphs: Adjacency List
+- [ ] Lesson 183 - Adjacency Matrix Vs. List BIG O
+- [ ] Lesson 184 - Add Vertex Intro
+- [ ] Lesson 185 - Add Vertex Solution
+- [ ] Lesson 186 - Add Edge Intro
+- [ ] Lesson 187 - Add Edge Solution
+- [ ] Lesson 188 - Remove Edge Intro
+- [ ] Lesson 189 - Remove Edge Solution
+- [ ] Lesson 190 - Remove Vertex Intro
+- [ ] Lesson 191 - Remove Vertex Solution
+- [ ] Lesson 192 - Intro to Graph Traversal
+- [ ] Lesson 193 - Depth First Graph Traversal
+- [ ] Lesson 194 - DFS Recursive Intro
+- [ ] Lesson 195 - DFS Recursive Solution
+- [ ] Lesson 196 - DFS Iterative Intro
+- [ ] Lesson 197 - DFS Iterative Solution
+- [ ] Lesson 198 - Breadth First Graph Traversal
+- [ ] Lesson 199 - BFS Intro
+- [ ] Lesson 200 - BFS Solution
+- [ ] Lesson 201 - Intro to Dijkstra's and Prerequisites
+- [ ] Lesson 202 - Who was Dijkstra and what is his Algorithm?
+- [ ] Lesson 203 - Writing a Weighted Graph
+- [ ] Lesson 204 - Walking through the Algorithm
+- [ ] Lesson 205 - Introducing Our Simple Priority Queue
+- [ ] Lesson 206 - Dijkstra's Pseudo-Code
+- [ ] Lesson 207 - Implementing Dijkstra's Algorithm
+- [ ] Lesson 208 - Upgrading the Priority Queue
+- [ ] Lesson 209 - Intro to Dynamic Programming
+- [ ] Lesson 210 - Overlapping Subproblems
+- [ ] Lesson 211 - Optimal Substructure
+- [ ] Lesson 212 - Writing a Recursive Solution
+- [ ] Lesson 213 - Time Complexity of Our Solution
+- [ ] Lesson 214 - The Problem With Our Solution
+- [ ] Lesson 215 - Enter Memoization!
+- [ ] Lesson 216 - Time Complexity of Memoized Solution
+- [ ] Lesson 217 - Tabulation: A Bottom Up Approach
